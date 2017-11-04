@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "description": "Lab for Asynchronous Server Technologies course at ECE.",
   "scripts": {
-    "start": "./bin/start",
-    "test": "./bin/test tests/*",
-    "compile": "./bin/compile"
+    "start": "bash ./bin/start",
+    "test": "bash ./bin/test tests/*",
+    "compile": "bash ./bin/compile"
   },
   "repository": {
     "type": "git",
