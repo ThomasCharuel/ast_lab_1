@@ -13,6 +13,8 @@ Then use `npm install`
 
 Use `npm start`
 
+Then navigate to `localhost:8888`
+
 ## Tests 
 
 Use `npm test`
