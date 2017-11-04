@@ -1,0 +1,19 @@
+{
+  "name": "ast_lab_work",
+  "version": "0.0.1",
+  "description": "Lab for Asynchronous Server Technologies course at ECE.",
+  "scripts": {
+    "start": "./bin/start",
+    "test": "./bin/test tests/*",
+    "compile": "./bin/compile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasCharuel/ast_lab_work.git"
+  },
+  "author": "Thomas Charuel, Romain Marcucci",
+  "bugs": {
+    "url": "https://github.com/ThomasCharuel/ast_lab_work/issues"
+  },
+  "homepage": "https://github.com/ThomasCharuel/ast_lab_work#readme"
+}
