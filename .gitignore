@@ -1,5 +1,5 @@
 node_modules
 lib/*.js
-public/*/*
+public/html/*
+public/css/*
 !public/*/.gitkeep
-!public/css/main.css
