@@ -1,6 +1,5 @@
-# Import a module
-http = require 'http'
 server = require './server.coffee'
+serverConf = require './conf.coffee'
 
-# Declare an http server
-http.createServer(server.logic).listen server.port, server.address
+# Starts the http server
+server.listen serverConf.port, serverConf.address
